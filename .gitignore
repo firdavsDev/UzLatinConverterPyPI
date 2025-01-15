@@ -1,6 +1,13 @@
-venv/
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
-.env
+
+# Package build artifacts
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+env/
+venv/
