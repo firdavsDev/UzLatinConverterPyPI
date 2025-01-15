@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+latinUzConverter/__init__.py
+latinUzConverter/core.py
+latinUzConverter/letters.py
+latin_uz_converter.egg-info/PKG-INFO
+latin_uz_converter.egg-info/SOURCES.txt
+latin_uz_converter.egg-info/dependency_links.txt
+latin_uz_converter.egg-info/top_level.txt
