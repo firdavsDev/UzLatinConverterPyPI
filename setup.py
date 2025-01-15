@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="latin-uz-converter",
+    name="latinuzconverter",
     version="1.0.0",
     description="A simple package to convert latin text to cyrillic and vice versa.",
     long_description=open("README.md").read(),

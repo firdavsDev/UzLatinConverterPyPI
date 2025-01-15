@@ -242,7 +242,7 @@ class LatinUzConverter:
 
         return text
 
-    def transliterate(self, to_variant: str) -> str:
+    def transliterate(self, text, to_variant: str) -> str:
         """
         Transliterate text to the desired variant
 
